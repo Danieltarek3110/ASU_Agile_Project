@@ -6,7 +6,8 @@
 
 /**
  *
- * @author Dell
+ * @author Daniel Lab 2
+
  */
 public class customers extends javax.swing.JFrame {
 
